@@ -43,7 +43,7 @@ def Grenades():
             'Damage': ''
         },
         {
-            'id': '8'
+            'id': '8',
             'title': 'Cymbal Monkey',
             'AMMO': '',
             'Damage': ''
