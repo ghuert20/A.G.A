@@ -2,7 +2,7 @@ def AssaultRifles():
     assaultrifles = [
 
         {
-            'id': 'Number of Gun',
+            'id': '1',
             'title': 'ICR - 7',
             'AMMO': '5.56mm',
             'Damage': '37',
