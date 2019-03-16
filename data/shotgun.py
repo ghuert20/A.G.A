@@ -9,7 +9,7 @@ def Shotguns():
         {
             'id': 2,
             'title': 'SG12',
-            'AMMO' 'SG12',
+            'AMMO': 'SG12',
             'Damage': '112'
         }
         return shotguns
