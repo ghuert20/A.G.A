@@ -1,5 +1,5 @@
 def TacticalRifile():
-    tacticalrifile = {
+    tacticalrifile = [
         {
             'id': 1,
             'title': 'Auger DMR',
@@ -10,6 +10,12 @@ def TacticalRifile():
             'id': 2,
             'title': 'ABR 223',
             'AMMO': '5.56mm',
-            'Damage': '38',\
+            'Damage': '38',
+        },
+        {
+            'id': 3,
+            'title': 'Swordfish',
+            'AMMO': '5.56mm',
+            'Damage': '34',
         }
-    }
+    ]
