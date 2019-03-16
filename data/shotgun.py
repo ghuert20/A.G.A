@@ -12,4 +12,5 @@ def Shotguns():
             'AMMO' 'SG12',
             'Damage': '112'
         }
+        return shotguns
     ]

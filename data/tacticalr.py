@@ -18,4 +18,5 @@ def TacticalRifile():
             'AMMO': '5.56mm',
             'Damage': '34',
         }
+        return tacticalrifile
     ]
