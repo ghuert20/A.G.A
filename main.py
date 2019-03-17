@@ -1,4 +1,6 @@
 from flask import Flask, render_template
+from app import AssaultRifles, TacticalRifile, LightMachineGuns, Shotguns, Melee, Grenades, Pistols
+
 app = Flask(__name__)
 
 @app.route("/")
