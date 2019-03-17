@@ -5,6 +5,7 @@ def Melee():
             'title': 'Combate Knife',
             'AMMO': 'No ammo',
             'Damage': 'Instant death'
+            'Image': '/static/images/Combate Knife.jpg'
         }
         return melee
     ]
