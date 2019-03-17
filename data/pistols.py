@@ -12,6 +12,7 @@ def Pistols():
             'title': 'Mozu',
             'AMMO': '.45 Cal',
             'Damage': '62'
+            
         },
         {
             'id': '3',
