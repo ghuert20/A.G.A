@@ -25,5 +25,5 @@ def Snipers():
             'AMMO': '.338 cal',
             'Damage': '95'
         },
-        return assaultrifles
+        return snipers
                     ]
