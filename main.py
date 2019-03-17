@@ -1,5 +1,12 @@
 from flask import Flask, render_template
-from app import AssaultRifles, TacticalRifile, LightMachineGuns, Shotguns, Melee, Grenades, Pistols, Launcher
+from assaultr import AssaultRifles
+from tacticalr import TacticalRifile
+from lmg import LightMachineGuns
+from shotgun import Shotguns
+from melee import Melee
+from nades import Grenades
+from pistols import Pistols
+from launcher import Launcher
 
 app = Flask(__name__)
 
